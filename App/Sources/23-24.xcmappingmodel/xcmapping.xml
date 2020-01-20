@@ -1,0 +1,52 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE database SYSTEM "file:///System/Library/DTDs/CoreData.dtd">
+
+<database>
+    <databaseInfo>
+        <version>134481920</version>
+        <UUID>1FCC1227-5313-4717-8E1D-11ECB2A5CBAA</UUID>
+        <nextObjectID>475</nextObjectID>
+        <metadata>
+            <plist version="1.0">
+                <dict>
+                    <key>NSPersistenceFrameworkVersion</key>
+                    <integer>641</integer>
+                    <key>NSStoreModelVersionHashes</key>
+                    <dict>
+                        <key>XDDevAttributeMapping</key>
+                        <data>
+		0plcXXRN7XHKl5CcF+fwriFmUpON3ZtcI/AfK748aWc=
+		</data>
+                        <key>XDDevEntityMapping</key>
+                        <data>
+		qeN1Ym3TkWN1G6dU9RfX6Kd2ccEvcDVWHpd3LpLgboI=
+		</data>
+                        <key>XDDevMappingModel</key>
+                        <data>
+		EqtMzvRnVZWkXwBHu4VeVGy8UyoOe+bi67KC79kphlQ=
+		</data>
+                        <key>XDDevPropertyMapping</key>
+                        <data>
+		XN33V44TTGY4JETlMoOB5yyTKxB+u4slvDIinv0rtGA=
+		</data>
+                        <key>XDDevRelationshipMapping</key>
+                        <data>
+		akYY9LhehVA/mCb4ATLWuI9XGLcjpm14wWL1oEBtIcs=
+		</data>
+                    </dict>
+                    <key>NSStoreModelVersionHashesVersion</key>
+                    <integer>3</integer>
+                    <key>NSStoreModelVersionIdentifiers</key>
+                    <array>
+                        <string></string>
+                    </array>
+                </dict>
+            </plist>
+        </metadata>
+    </databaseInfo>
+    <object type="XDDEVRELATIONSHIPMAPPING" id="z102">
+        <attribute name="autogenerateexpression" type="bool">1</attribute>
+        <attribute name="name" type="string">foo</attribute>
+        <relationship name="entitymapping" type="1/1" destination="XDDEVENTITYMAPPING" idrefs="z370"></relationship>
+    </object>
+</database>
