@@ -1,0 +1,1 @@
+# tuist-mapping-model
